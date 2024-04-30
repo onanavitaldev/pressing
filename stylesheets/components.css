@@ -1,0 +1,34 @@
+.btn
+{
+    background-color: var(--bg);
+    color: var(--white);
+    border-radius: var(--radius);
+    transition: var(--t);
+    padding: 15px;
+    text-decoration: none;
+}
+.btn_white
+{
+    background-color: var(--white);
+    color: var(--color);
+    border-radius: var(--radius);
+    transition: var(--t);
+    padding: 15px;
+    text-decoration: none;
+}
+.btn_g
+{
+    background-color: #f1f1f1;
+    color: var(--color);
+    border-radius: var(--radius);
+    transition: var(--t);
+    padding: 15px;
+    text-decoration: none;
+}
+
+#div
+{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+}
